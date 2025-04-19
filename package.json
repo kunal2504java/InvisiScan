@@ -1,0 +1,12 @@
+{
+  "name": "hackverse_2025-team_matrix",
+  "version": "1.0.0",
+  "description": "This project integrates AI-powered CCTV surveillance with blockchain-based tamper-proof crime reporting and investigation to enhance security and legal transparency. The AI-enabled CCTV system continuously monitors surveillance footage, detecting suspicious activities such as violence, weapon detection, and unauthorized access using computer vision models.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
